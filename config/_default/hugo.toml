@@ -1,6 +1,6 @@
-baseURL = 'https://bryleong.org/'
+baseURL = 'https://darksideshadow.github.io/'
 locale = 'en-us'
-title = "Bryle's Webpage"
+title = "Bryle Ong's Webpage"
 
 theme = 'hugo-theme-stack'
 
