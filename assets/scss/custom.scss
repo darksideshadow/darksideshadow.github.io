@@ -1,0 +1,8 @@
+.left-sidebar {
+  --sidebar-avatar-size: 150px;
+}
+
+.site-avatar .site-logo {
+    width: var(--sidebar-avatar-size);
+    height: var(--sidebar-avatar-size);
+}
