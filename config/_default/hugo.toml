@@ -1,6 +1,6 @@
 baseURL = 'https://darksideshadow.github.io/'
 locale = 'en-us'
-title = "Bryle Ong's Webpage"
+title = "Bryle's Portfolio"
 
 theme = 'hugo-theme-stack'
 
