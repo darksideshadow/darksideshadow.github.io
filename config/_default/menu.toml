@@ -1,0 +1,32 @@
+# Configure main menu and social menu
+#[[main]]
+#identifier = "home"
+#name = "Home"
+#url = "/"
+#[main.params]
+#icon = "home"
+#newtab = true
+
+[[social]]
+    identifier = "github"
+    name       = "GitHub"
+    url        = "https://github.com/darksideshadow"
+
+    [social.params]
+        icon = "brand-github"
+
+[[social]]
+    identifier = "linkedin"
+    name       = "LinkedIn"
+    url        = "https://linkedin.com/in/brylejaronong"
+
+    [social.params]
+        icon = "brand-linkedin"
+
+[[social]]
+    identifier = "email"
+    name       = "Email"
+    url        = "mailto:ongbrylejaron@gmail.com"
+
+    [social.params]
+        icon = "brand-email"
